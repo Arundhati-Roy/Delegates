@@ -1,0 +1,13 @@
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.exe
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.deps.json
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.runtimeconfig.json
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.runtimeconfig.dev.json
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.dll
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\bin\Debug\netcoreapp3.1\EventsDemo.pdb
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.csprojAssemblyReference.cache
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.AssemblyInfoInputs.cache
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.AssemblyInfo.cs
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.csproj.CoreCompileInputs.cache
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.dll
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.pdb
+C:\Users\priyadarshini roy\source\repos\Delegates\EventsDemo\obj\Debug\netcoreapp3.1\EventsDemo.genruntimeconfig.cache
